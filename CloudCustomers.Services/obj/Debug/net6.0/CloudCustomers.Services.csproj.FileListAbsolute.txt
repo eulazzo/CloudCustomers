@@ -1,0 +1,15 @@
+C:\Users\Lázaro Vanderson\Desktop\C# Courses\Building a .NET 6 API Using TDD\CloudCustomers\CloudCustomers.Services\bin\Debug\net6.0\CloudCustomers.Services.deps.json
+C:\Users\Lázaro Vanderson\Desktop\C# Courses\Building a .NET 6 API Using TDD\CloudCustomers\CloudCustomers.Services\bin\Debug\net6.0\CloudCustomers.Services.dll
+C:\Users\Lázaro Vanderson\Desktop\C# Courses\Building a .NET 6 API Using TDD\CloudCustomers\CloudCustomers.Services\bin\Debug\net6.0\CloudCustomers.Services.pdb
+C:\Users\Lázaro Vanderson\Desktop\C# Courses\Building a .NET 6 API Using TDD\CloudCustomers\CloudCustomers.Services\bin\Debug\net6.0\CloudCustomers.Domain.dll
+C:\Users\Lázaro Vanderson\Desktop\C# Courses\Building a .NET 6 API Using TDD\CloudCustomers\CloudCustomers.Services\bin\Debug\net6.0\CloudCustomers.Domain.pdb
+C:\Users\Lázaro Vanderson\Desktop\C# Courses\Building a .NET 6 API Using TDD\CloudCustomers\CloudCustomers.Services\obj\Debug\net6.0\CloudCustomers.Services.csproj.AssemblyReference.cache
+C:\Users\Lázaro Vanderson\Desktop\C# Courses\Building a .NET 6 API Using TDD\CloudCustomers\CloudCustomers.Services\obj\Debug\net6.0\CloudCustomers.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lázaro Vanderson\Desktop\C# Courses\Building a .NET 6 API Using TDD\CloudCustomers\CloudCustomers.Services\obj\Debug\net6.0\CloudCustomers.Services.AssemblyInfoInputs.cache
+C:\Users\Lázaro Vanderson\Desktop\C# Courses\Building a .NET 6 API Using TDD\CloudCustomers\CloudCustomers.Services\obj\Debug\net6.0\CloudCustomers.Services.AssemblyInfo.cs
+C:\Users\Lázaro Vanderson\Desktop\C# Courses\Building a .NET 6 API Using TDD\CloudCustomers\CloudCustomers.Services\obj\Debug\net6.0\CloudCustomers.Services.csproj.CoreCompileInputs.cache
+C:\Users\Lázaro Vanderson\Desktop\C# Courses\Building a .NET 6 API Using TDD\CloudCustomers\CloudCustomers.Services\obj\Debug\net6.0\CloudCustomers.Services.csproj.CopyComplete
+C:\Users\Lázaro Vanderson\Desktop\C# Courses\Building a .NET 6 API Using TDD\CloudCustomers\CloudCustomers.Services\obj\Debug\net6.0\CloudCustomers.Services.dll
+C:\Users\Lázaro Vanderson\Desktop\C# Courses\Building a .NET 6 API Using TDD\CloudCustomers\CloudCustomers.Services\obj\Debug\net6.0\refint\CloudCustomers.Services.dll
+C:\Users\Lázaro Vanderson\Desktop\C# Courses\Building a .NET 6 API Using TDD\CloudCustomers\CloudCustomers.Services\obj\Debug\net6.0\CloudCustomers.Services.pdb
+C:\Users\Lázaro Vanderson\Desktop\C# Courses\Building a .NET 6 API Using TDD\CloudCustomers\CloudCustomers.Services\obj\Debug\net6.0\ref\CloudCustomers.Services.dll

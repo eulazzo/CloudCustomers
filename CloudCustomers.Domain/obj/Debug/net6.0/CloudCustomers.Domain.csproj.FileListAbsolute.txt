@@ -1,0 +1,12 @@
+C:\Users\Lázaro Vanderson\Desktop\C# Courses\Building a .NET 6 API Using TDD\CloudCustomers\CloudCustomers.Domain\bin\Debug\net6.0\CloudCustomers.Domain.deps.json
+C:\Users\Lázaro Vanderson\Desktop\C# Courses\Building a .NET 6 API Using TDD\CloudCustomers\CloudCustomers.Domain\bin\Debug\net6.0\CloudCustomers.Domain.dll
+C:\Users\Lázaro Vanderson\Desktop\C# Courses\Building a .NET 6 API Using TDD\CloudCustomers\CloudCustomers.Domain\bin\Debug\net6.0\CloudCustomers.Domain.pdb
+C:\Users\Lázaro Vanderson\Desktop\C# Courses\Building a .NET 6 API Using TDD\CloudCustomers\CloudCustomers.Domain\obj\Debug\net6.0\CloudCustomers.Domain.csproj.AssemblyReference.cache
+C:\Users\Lázaro Vanderson\Desktop\C# Courses\Building a .NET 6 API Using TDD\CloudCustomers\CloudCustomers.Domain\obj\Debug\net6.0\CloudCustomers.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lázaro Vanderson\Desktop\C# Courses\Building a .NET 6 API Using TDD\CloudCustomers\CloudCustomers.Domain\obj\Debug\net6.0\CloudCustomers.Domain.AssemblyInfoInputs.cache
+C:\Users\Lázaro Vanderson\Desktop\C# Courses\Building a .NET 6 API Using TDD\CloudCustomers\CloudCustomers.Domain\obj\Debug\net6.0\CloudCustomers.Domain.AssemblyInfo.cs
+C:\Users\Lázaro Vanderson\Desktop\C# Courses\Building a .NET 6 API Using TDD\CloudCustomers\CloudCustomers.Domain\obj\Debug\net6.0\CloudCustomers.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lázaro Vanderson\Desktop\C# Courses\Building a .NET 6 API Using TDD\CloudCustomers\CloudCustomers.Domain\obj\Debug\net6.0\CloudCustomers.Domain.dll
+C:\Users\Lázaro Vanderson\Desktop\C# Courses\Building a .NET 6 API Using TDD\CloudCustomers\CloudCustomers.Domain\obj\Debug\net6.0\refint\CloudCustomers.Domain.dll
+C:\Users\Lázaro Vanderson\Desktop\C# Courses\Building a .NET 6 API Using TDD\CloudCustomers\CloudCustomers.Domain\obj\Debug\net6.0\CloudCustomers.Domain.pdb
+C:\Users\Lázaro Vanderson\Desktop\C# Courses\Building a .NET 6 API Using TDD\CloudCustomers\CloudCustomers.Domain\obj\Debug\net6.0\ref\CloudCustomers.Domain.dll
